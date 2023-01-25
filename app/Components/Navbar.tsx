@@ -10,7 +10,7 @@ const Navbar = () => {
       >
         Hanzala Ahmed
       </div>
-      <div className="w-[40%] h-[80%] flex justify-end items-center text-2xl cursor-pointer">
+      <div className="w-[40%] h-[80%] flex justify-end items-center text-2xl">
         <label htmlFor="burger" className="burger">
           <input id="burger" type="checkbox" />
           <span></span>
