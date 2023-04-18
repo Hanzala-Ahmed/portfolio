@@ -7,8 +7,9 @@
   --background-start-rgb: 214, 219, 220;
   --background-end-rgb: 255, 255, 255;
   --grayText: #666666;
-  --blueBg: #42446E;
-  --blueBorder: #42446ece;
+  --blueBg: #15556a;
+  --blueBorder: #15556abb;
+  --pinkColor: #E70FAA;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -24,4 +25,5 @@ body {
   background: linear-gradient(to bottom,
       transparent,
       rgb(var(--background-end-rgb))) rgb(var(--background-start-rgb)); */
+  position: relative;
 }

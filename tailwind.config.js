@@ -15,12 +15,19 @@ module.exports = {
       textColor: {
         grayText: "var(--grayText)",
         blueText: "var(--blueBg)",
+        pinkText: "var(--pinkColor)",
       },
       backgroundColor: {
         blueBg: "var(--blueBg)",
+        pinkBg: "var(--pinkColor)",
       },
       borderColor: {
         blueBorder: "var(--blueBorder)",
+        pinkBorder: "var(--pinkColor)",
+      },
+      screens: {
+        zeroScreen: "0px",
+        navSm: "1160px",
       },
     },
   },
