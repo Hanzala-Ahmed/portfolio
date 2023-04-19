@@ -23,3 +23,44 @@ export const stackData = [
     { src: "/figmaIcon.svg", name: "Figma" },
     { src: "/adobexdIcon.svg", name: "Adobe XD" },
   ];
+
+  export const projectsData = [
+    {
+      name: "Portfolio",
+      description: "This is sample project description random things are here in description This is sample project lorem ipsum generator for dummy content",
+      src: "/demo.png",
+      liveLink: "",
+      githubLink: "",
+    },
+    {
+      name: "Portfolio",
+      description: "This is sample project description random things are here in description This is sample project lorem ipsum generator for dummy content",
+      src: "/demo.png",
+      liveLink: "",
+      githubLink: "",
+    },{
+      name: "Portfolio",
+      description: "This is sample project description random things are here in description This is sample project lorem ipsum generator for dummy content",
+      src: "/demo.png",
+      liveLink: "",
+      githubLink: "",
+    },{
+      name: "Portfolio",
+      description: "This is sample project description random things are here in description This is sample project lorem ipsum generator for dummy content",
+      src: "/demo.png",
+      liveLink: "",
+      githubLink: "",
+    },{
+      name: "Portfolio",
+      description: "This is sample project description random things are here in description This is sample project lorem ipsum generator for dummy content",
+      src: "/demo.png",
+      liveLink: "",
+      githubLink: "",
+    },{
+      name: "Portfolio",
+      description: "This is sample project description random things are here in description This is sample project lorem ipsum generator for dummy content",
+      src: "/demo.png",
+      liveLink: "",
+      githubLink: "",
+    },
+  ]

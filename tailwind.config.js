@@ -20,6 +20,7 @@ module.exports = {
       backgroundColor: {
         blueBg: "var(--blueBg)",
         pinkBg: "var(--pinkColor)",
+        grayBg: "var(--grayText)",
       },
       borderColor: {
         blueBorder: "var(--blueBorder)",
